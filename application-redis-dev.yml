@@ -2,5 +2,6 @@ server:
   port: 9003
 hrm:
   redis:
-    host: 6379
+    host: 172.16.5.211
     password: itsource
+    port: 6379
